@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69854" started-at="2022-12-11T21:54:17 PST" finished-at="2022-12-11T21:55:27 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69854" started-at="2022-12-11T21:54:17 PST" finished-at="2022-12-11T21:55:27 PST">
+      <class name="ddtNopCom.NOPCommLoginTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="launchApp" is-config="true" duration-ms="8536" started-at="2022-12-11T21:54:17 PST" finished-at="2022-12-11T21:54:25 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLoginWithInValidUser(java.lang.String, java.lang.String)[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="verifyLoginWithInValidUser" duration-ms="10596" started-at="2022-12-11T21:54:26 PST" data-provider="regressionData" finished-at="2022-12-11T21:54:36 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abiramiRegsssion@google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidUser -->
+        <test-method status="PASS" signature="verifyLoginWithInValidUser(java.lang.String, java.lang.String)[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="verifyLoginWithInValidUser" duration-ms="9844" started-at="2022-12-11T21:54:36 PST" data-provider="regressionData" finished-at="2022-12-11T21:54:46 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KritikaRegsssion@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidUser -->
+        <test-method status="PASS" signature="verifyLoginWithInValidUser(java.lang.String, java.lang.String)[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="verifyLoginWithInValidUser" duration-ms="9790" started-at="2022-12-11T21:54:46 PST" data-provider="regressionData" finished-at="2022-12-11T21:54:56 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PriyankaRegsssion@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidUser -->
+        <test-method status="PASS" signature="verifyLoginWithInValidUser(java.lang.String, java.lang.String)[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="verifyLoginWithInValidUser" duration-ms="9778" started-at="2022-12-11T21:54:56 PST" data-provider="regressionData" finished-at="2022-12-11T21:55:06 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sidRegsssion@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidUser -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:ddtNopCom.NOPCommLoginTest@185d8b6]" name="closeApp" is-config="true" duration-ms="21275" started-at="2022-12-11T21:55:06 PST" finished-at="2022-12-11T21:55:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ddtNopCom.NOPCommLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

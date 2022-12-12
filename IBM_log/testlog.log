@@ -1,0 +1,34 @@
+2022-11-22 22:40:20,789 - Amazon App Module -INFO - Launching the app
+2022-11-22 22:40:20,796 - Amazon App Module -INFO - Login test case
+2022-11-22 22:40:20,797 - Amazon App Module -INFO - closing the app
+2022-12-04 22:50:41,748 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:50:41,764 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:52:20,408 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:52:20,408 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:52:55,696 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:52:55,696 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:54:31,425 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:54:37,428 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:54:38,841 - NOP Comm Application Module -INFO - Application URL http://only-testing-blog.blogspot.com/2013/11/new-test.html
+2022-12-04 22:54:45,935 - NOP Comm Application Module -INFO - closing app
+2022-12-04 22:56:38,687 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:56:41,006 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:56:42,592 - NOP Comm Application Module -INFO - Application URL https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-04 22:56:44,042 - NOP Comm Application Module -INFO - enter usernameadmin@yourstore.com
+2022-12-04 22:56:47,488 - NOP Comm Application Module -INFO - Login test case
+2022-12-04 22:56:51,536 - NOP Comm Application Module -INFO - Application title after loginDashboard / nopCommerce administration
+2022-12-04 22:57:25,973 - NOP Comm Application Module -INFO - closing app
+2022-12-04 22:58:35,064 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 22:58:37,404 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 22:58:38,886 - NOP Comm Application Module -INFO - Application URL https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-04 22:58:40,362 - NOP Comm Application Module -INFO - enter usernameadmin@yourstore.com
+2022-12-04 22:58:43,766 - NOP Comm Application Module -INFO - Login test case
+2022-12-04 22:58:47,779 - NOP Comm Application Module -INFO - Application title after loginDashboard / nopCommerce administration
+2022-12-04 22:59:22,354 - NOP Comm Application Module -INFO - closing app
+2022-12-04 23:07:11,765 - NOP Comm Application Module -INFO - launching applicaiton on browser : chrome
+2022-12-04 23:07:14,565 - NOP Comm Application Module -INFO - browser launched
+2022-12-04 23:07:16,207 - NOP Comm Application Module -INFO - Application URL https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-04 23:07:17,467 - NOP Comm Application Module -INFO - enter usernameadmin@yourstore.com
+2022-12-04 23:07:21,182 - NOP Comm Application Module -INFO - Login test case
+2022-12-04 23:07:25,186 - NOP Comm Application Module -INFO - Application title after login  Dashboard / nopCommerce administration
+2022-12-04 23:07:59,889 - NOP Comm Application Module -INFO - closing app

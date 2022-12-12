@@ -1,0 +1,25 @@
+<suite name="Suite">
+
+<listeners>
+
+<listener class-name="tests.ListenersDemo"/>
+
+<!--     <listener class-name=""></listener>  -->
+
+</listeners>
+
+<test thread-count="5" name="Test">
+
+<classes>
+
+<class name="tests.LoginTest"/>
+
+<class name="tests.NOPComAddCustomer"/>
+
+</classes>
+
+</test>
+
+</suite>
+
+<!--  Suite  -->
