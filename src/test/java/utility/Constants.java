@@ -14,6 +14,7 @@ public class Constants {
     public static final String File_TestData = "RegisterStudent.xls";
 
     public static final String File_TestData2 = "TestData.xlsx";
+    public static final String apiKey = "c76e6d1f2e6af75573c66176b1ad5627";
 
 
 
