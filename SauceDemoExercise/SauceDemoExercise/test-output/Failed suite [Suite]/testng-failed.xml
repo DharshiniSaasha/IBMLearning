@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <parameter name="browser" value="Chrome"/>
+  <test thread-count="5" name="Test_All">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.mystore.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test_All -->
+  <test name="Test_All(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.mystore.testcases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- com.mystore.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test_All(failed) -->
+  <test name="Test_All(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.mystore.testcases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="loginTest"/>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- com.mystore.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test_All(failed) -->
+  <test name="Test_All(failed)(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.mystore.testcases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="loginTest"/>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- com.mystore.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test_All(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
